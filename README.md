@@ -17,3 +17,10 @@ One of the primary purposes of analysing loan data is to assess the risk associa
    - Bad loan total received amount
 7) Loan status grid:
    - In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim to create a grid view report categorized by 'Loan Status.’ By providing insights into metrics such       as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' this   grid view will empower us to make data-driven decisions and assess the health of our loan portfolio.
+8) Monthly trend by issue date
+9) Regional analysis
+10) Loan Term Analysis
+11) Employee Length Analysis
+12) Loan purpose breakdown
+13) Home ownership Analysis
+
