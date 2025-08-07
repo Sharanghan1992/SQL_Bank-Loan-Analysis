@@ -24,3 +24,9 @@ One of the primary purposes of analysing loan data is to assess the risk associa
 12) Loan purpose breakdown
 13) Home ownership Analysis
 
+```sql
+SELECT
+    count(*) AS record_count
+FROM
+    data_analyst.jobs;
+
